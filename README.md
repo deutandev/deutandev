@@ -60,9 +60,9 @@
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=deutandev&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api?username=deutandev&show_icons=true&theme=highcontrast&locale=en&hide_border=true"
         alt="deutandev" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=deutandev&show_icons=true&theme=highcontrast&locale=en&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=deutandev&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact"
         alt="deutandev" /></p>
