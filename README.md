@@ -2,7 +2,7 @@
 <h3 align="center">Game dev wannabe who loves to learn anything anytime ;)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=deutandev" alt="deutandev" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=deutandev&theme=algolia&no-frame=true&rank=SECRET, SSS, SS, S, AAA, AA, A, B" alt="deutandev" /></a> </p>
 
 - 🌱 I’m currently learning **Game development with Unity and Godot Engine**
 
@@ -64,5 +64,5 @@
         alt="deutandev" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=deutandev&show_icons=true&theme=highcontrast&hide_border=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=deutandev&show_icons=true&theme=highcontrast&locale=en"
         alt="deutandev" /></p>
