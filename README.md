@@ -64,5 +64,5 @@
         alt="deutandev" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=deutandev&show_icons=true&theme=highcontrast&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=deutandev&show_icons=true&theme=highcontrast&hide_border=true&locale=en"
         alt="deutandev" /></p>
