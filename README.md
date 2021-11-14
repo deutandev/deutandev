@@ -9,11 +9,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/dikawfa" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="dikawfa" height="30" width="40" /></a>
+            src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
+            alt="LinkedIn: dikawfa" height="30" width="40" /></a>
     <a href="https://instagram.com/dika.wfa" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="dika.wfa" height="30" width="40" /></a>
+            alt="IG: @dika.wfa" height="30" width="40" /></a>
+    <a href="https://t.me/DikaWFA" target="blank"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Telegram_2019_simple_logo.svg/50px-Telegram_2019_simple_logo.svg.png"
+            alt="Telegram: DikaWFA" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +26,9 @@
             src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
             width="40" height="40" /> 
     </a> 
+     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="40" height="40" /> 
