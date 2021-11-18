@@ -4,8 +4,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=deutandev&theme=algolia&no-frame=true&rank=SECRET, SSS, SS, S, AAA, AA, A, B" alt="deutandev" /></a> </p>
 
-- 🌱 I’m currently learning **Game development with Unity and Godot Engine**
+- 🌱 I’m currently learning **Game development with Unity and Godot Engine**  
 
+<h3>My games available at:</h3>
+<p>
+    <a href="https://deutan.itch.io/" target="blank"><img align="center"
+            src="https://static.itch.io/images/itchio-textless-white.svg"
+            alt="itch.io: Deutan" height="30" /></a>
+</p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/dikawfa" target="blank"><img align="center"
