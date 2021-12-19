@@ -5,6 +5,9 @@
             src="https://github-profile-trophy.vercel.app/?username=deutandev&theme=algolia&no-frame=true&rank=SECRET, SSS, SS, S, AAA, AA, A, B" alt="deutandev" /></a> </p>
 
 - 🌱 I’m currently learning **Game development with Unity and Godot Engine**  
+- 🔭 I’m currently working on:
+   - 🎮 **Revenge**: 3D platformer game made with Unity as a project group in *Studi Independen - Agate* event.
+   - 🎮 **Petualangan Memilah Sampah**: A game made with Godot Engine with procedurally generated map for my final project at uni.
 
 <h3>My games available at:</h3>
 <p>
