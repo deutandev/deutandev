@@ -4,10 +4,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=deutandev&theme=algolia&no-frame=true&rank=SECRET, SSS, SS, S, AAA, AA, A, B" alt="deutandev" /></a> </p>
 
-- 🌱 I’m currently learning **Game development with Unity and Godot Engine**  
+- 🌱 I’m currently learning: 
+   - **Agate Academy - Game Development Course and Bootcamp (Game programming with Unity & 3D game art)**
+   - **Orbit Future Academy - Artificial Intelligence Mastery Program**
+   - **Game development with Godot Engine - Self learning**
 - 🔭 I’m currently working on:
    - 🎮 **[Revenge](https://github.com/deutandev/revenge)**: 3D platformer game made with Unity as a project group in *Studi Independen - Game Development Course and Bootcamp by Agate.*
-   - 🎮 **Petualangan Memilah Sampah**: A game made with Godot Engine with procedurally generated map for my final project at uni.
+   - 🎮 **Petualangan Memilah Sampah**: A game made with Godot Engine with procedurally generated map. Made for my final project at university.
 
 <h3>My games available at:</h3>
 <p>
@@ -28,7 +31,7 @@
             alt="Telegram: DikaWFA" height="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools & Languages:</h3>
 <p align="left"> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
         <img
@@ -60,7 +63,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> 
+        <img src="https://styles.redditmedia.com/t5_2qwj8/styles/communityIcon_m9yxpm3fmzr71.png?width=256&s=81f8af9dcdd803d31440ca00bca17eeaea25581e" alt="unity" width="40" height="40" /> 
     </a>
     <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
         <img
