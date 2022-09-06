@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andika Wirapala Fathin Azfar</h1>
 <h3 align="center">Hobbyist game developer who loves to learn everything ;)</h3>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=deutandev&theme=algolia&no-frame=true&rank=SECRET, SSS, SS, S, AAA, AA, A, B" alt="deutandev" /></a> </p>
+-->
 
 - 🌱 I’m currently learning: 
    - **Agate Academy - Game Development Course and Bootcamp (Game programming with Unity & 3D game art)**
