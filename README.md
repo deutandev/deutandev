@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andika Wirapala Fathin Azfar</h1>
-<h3 align="center">Hobbyist game developer who loves to learn everything ;)</h3>
+<h3 align="center">Front end - Game dev. who loves to learn everything ;)</h3>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=deutandev&theme=algolia&no-frame=true&rank=SECRET, SSS, SS, S, AAA, AA, A, B" alt="deutandev" /></a> </p>
 -->
 
+
+I'm an undergraduate student majoring in Informatics and minoring in Software Engineering. Currently, I'm in the probation phase for an advertising agency based in Singapore. I'm working remotely as a Front End developer making web-based casual games, landing pages, and EDM/HTML emails. I especially love developing games as it helps me to improve my creativity and logical thinking.
+
+<!--
 - 🌱 I’m currently learning: 
    - **Agate Academy - Game Development Course and Bootcamp (Game programming with Unity & 3D game art)**
    - **Orbit Future Academy - Artificial Intelligence Mastery Program**
@@ -13,6 +17,7 @@
 - 🔭 I’m currently working on:
    - 🎮 **[Revenge](https://github.com/deutandev/revenge)**: 3D platformer game made with Unity as a project group in *Studi Independen - Game Development Course and Bootcamp by Agate.*
    - 🎮 **Petualangan Memilah Sampah**: A game made with Godot Engine with procedurally generated map. Made for my final project at university.
+-->
 
 <h3>My games available at:</h3>
 <p>
