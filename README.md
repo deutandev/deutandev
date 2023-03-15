@@ -7,7 +7,7 @@
 -->
 
 
-I'm an undergraduate student majoring in Informatics and minoring in Software Engineering. Currently, I'm in the probation phase for an advertising agency based in Singapore. I'm working remotely as a Front End developer making web-based casual games, landing pages, and EDM/HTML emails. I especially love developing games as it helps me to improve my creativity and logical thinking.
+I'm an undergraduate student majoring in Informatics and minoring in Software Engineering. Currently, I work for an advertising agency based in Singapore. I'm working remotely as a Front End developer making web-based casual games, landing pages, and EDM/HTML emails. I especially love developing games as it helps me to improve my creativity and logical thinking.
 
 <!--
 - 🌱 I’m currently learning: 
